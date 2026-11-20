@@ -1,0 +1,9 @@
+exercise,actual_label,predicted_label,count
+bicep_curl,bad,bad,7
+bicep_curl,bad,good,8
+bicep_curl,good,bad,4
+bicep_curl,good,good,11
+squat,bad,bad,12
+squat,bad,good,3
+squat,good,bad,10
+squat,good,good,5

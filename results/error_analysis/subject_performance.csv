@@ -1,0 +1,6 @@
+subject_id,total_videos,correct,mean_confidence,incorrect,accuracy
+subject_002,12,6,59.72,6,50.0
+subject_005,12,8,64.82,4,66.67
+subject_009,12,8,65.8,4,66.67
+subject_014,12,7,55.92,5,58.33
+subject_023,12,6,66.03,6,50.0

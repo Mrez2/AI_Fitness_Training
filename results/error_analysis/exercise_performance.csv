@@ -1,0 +1,3 @@
+exercise,total_videos,correct,mean_confidence,incorrect,accuracy
+bicep_curl,30,18,62.79,12,60.0
+squat,30,17,62.13,13,56.67

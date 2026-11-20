@@ -1,0 +1,32 @@
+{
+    "model": "Random Forest",
+    "seeds": [
+        42,
+        123,
+        2026
+    ],
+    "best_seed": 42,
+    "features": [
+        "elbow_angle_mean",
+        "elbow_angle_min",
+        "elbow_angle_max",
+        "elbow_angle_range",
+        "knee_angle_mean",
+        "knee_angle_min",
+        "knee_angle_max",
+        "knee_angle_range",
+        "hip_angle_mean",
+        "hip_angle_min",
+        "hip_angle_max",
+        "hip_angle_range",
+        "torso_angle_mean",
+        "torso_angle_max",
+        "clip_duration",
+        "movement_speed",
+        "exercise",
+        "camera_view"
+    ],
+    "target": "label",
+    "split_method": "subject-independent",
+    "test_evaluated": false
+}

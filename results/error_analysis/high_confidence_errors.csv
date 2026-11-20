@@ -1,0 +1,5 @@
+subject_id,video_path,exercise,camera_view,actual_label,predicted_label,confidence,correct_prediction
+subject_023,C:\games\Fitness Detection\data\fitness_dataset\A Multi-View Raw Video Dataset of Seven Fitness Ex\Dataset Subject-wise\subject_023\bicep_curl\bad\front\subject_023_bicep_curl_bad_front.mp4,bicep_curl,front,bad,good,76.0,False
+subject_009,C:\games\Fitness Detection\data\fitness_dataset\A Multi-View Raw Video Dataset of Seven Fitness Ex\Dataset Subject-wise\subject_009\bicep_curl\good\front\subject_009_bicep_curl_good_front.mp4,bicep_curl,front,good,bad,75.86,False
+subject_002,C:\games\Fitness Detection\data\fitness_dataset\A Multi-View Raw Video Dataset of Seven Fitness Ex\Dataset Subject-wise\subject_002\bicep_curl\bad\side\subject_002_bicep_curl_bad_side.mp4,bicep_curl,side,bad,good,75.83,False
+subject_009,C:\games\Fitness Detection\data\fitness_dataset\A Multi-View Raw Video Dataset of Seven Fitness Ex\Dataset Subject-wise\subject_009\squat\good\side\subject_009_squat_good_side.mp4,squat,side,good,bad,75.67,False

@@ -1,0 +1,40 @@
+{
+    "model": "Random Forest",
+    "evaluation": "Final held-out test set",
+    "test_videos": 60,
+    "test_subjects": 5,
+    "metrics": {
+        "accuracy": 0.5833333333333334,
+        "precision_macro": 0.5841750841750841,
+        "recall_macro": 0.5833333333333333,
+        "f1_macro": 0.5822890559732665
+    },
+    "classification_report": {
+        "Good Form": {
+            "precision": 0.5925925925925926,
+            "recall": 0.5333333333333333,
+            "f1-score": 0.5614035087719298,
+            "support": 30.0
+        },
+        "Bad Form": {
+            "precision": 0.5757575757575758,
+            "recall": 0.6333333333333333,
+            "f1-score": 0.6031746031746031,
+            "support": 30.0
+        },
+        "accuracy": 0.5833333333333334,
+        "macro avg": {
+            "precision": 0.5841750841750841,
+            "recall": 0.5833333333333333,
+            "f1-score": 0.5822890559732665,
+            "support": 60.0
+        },
+        "weighted avg": {
+            "precision": 0.5841750841750842,
+            "recall": 0.5833333333333334,
+            "f1-score": 0.5822890559732665,
+            "support": 60.0
+        }
+    },
+    "test_evaluated": true
+}

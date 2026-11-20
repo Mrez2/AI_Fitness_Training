@@ -1,0 +1,5 @@
+exercise,actual_label,total,correct,incorrect,recall_percent
+bicep_curl,bad,15,7,8,46.67
+bicep_curl,good,15,11,4,73.33
+squat,bad,15,12,3,80.0
+squat,good,15,5,10,33.33
