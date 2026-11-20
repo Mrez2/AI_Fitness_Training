@@ -292,7 +292,7 @@ This project combines:
 - [PyTorch](https://pytorch.org/)
 - [Random Forest — Scikit-learn Documentation](https://scikit-learn.org/stable/modules/ensemble.html#forest)
 - [Spatial Temporal Graph Convolutional Networks](https://arxiv.org/abs/1801.07455)
-
+- [link dataset](https://data.mendeley.com/datasets/kgbb3yn47p/1?utm_source=chatgpt.com)
 ---
 
 **AI Fitness Trainer — Intelligent Exercise Analysis Using Computer Vision and Machine Learning.**
